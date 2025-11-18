@@ -1,2 +1,0 @@
-ALTER TABLE cars
-ADD Car_Regno VARCHAR(10);
